@@ -44,7 +44,7 @@ public class Student {
     }
 
     public void displayInfo() {
-        System.out.println("Student Name: " + getName() + ", Email:"+ getEmail() + ", Course: " + getCourse() );
+        System.out.println("Student Name: " + getName() + "\nEmail: "+ getEmail() + "\nCourse: " + getCourse() + "\n");
     }
 
     public void studentInfo(){
